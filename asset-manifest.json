@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/NewsToday/static/js/main.32e91f70.js",
+    "static/js/787.4c026eef.chunk.js": "/NewsToday/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/NewsToday/static/media/loading.da066e72eb8337a0dc00.gif",
+    "index.html": "/NewsToday/index.html",
+    "main.32e91f70.js.map": "/NewsToday/static/js/main.32e91f70.js.map",
+    "787.4c026eef.chunk.js.map": "/NewsToday/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.32e91f70.js"
+  ]
+}
